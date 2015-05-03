@@ -1,5 +1,6 @@
 package concesionario;
 
+////Comentario nuevo en clase Cliente
 public class Cliente {
 	public Cliente(String idCliente, String nomCliente, String apeCliente) {
 		super();
